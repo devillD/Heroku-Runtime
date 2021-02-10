@@ -8,3 +8,5 @@ python-3.8.7 on all supported stacks
 python-3.7.9 on all supported stacks
 
 python-3.6.12 on all supported stacks
+
+(Example)[https://github.com/devillD/Torrent-Searcher/blob/main/runtime.txt]
